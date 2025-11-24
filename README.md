@@ -25,5 +25,5 @@ How to play: Fill entire table by placing letters. When you create English word 
 
 ### Support
 
-You can support development on [Patreon](https://www.patreon.com/DusanHalicky) or you can hire me via [Upwork](https://www.upwork.com/freelancers/~013b4c3d6e772fdb01)
+You can hire me via [Upwork](https://www.upwork.com/freelancers/tyreed2)
 
